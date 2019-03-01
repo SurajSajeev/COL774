@@ -1,0 +1,330 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.11)  12 FEB 2019 15:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+LaTeX2e <2018-04-01> patch level 5
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(./template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+\c@lstlisting=\count96
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+
+Overfull \hbox (20.02327pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 for j=1 can be fur-ther rewrit-ten as :$[] [] = [] [] [] \OML/c
+mm/m/it/10 :x[] \OT1/cmr/m/n/10 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
+
+ []
+
+
+Overfull \hbox (20.53252pt too wide) in paragraph at lines 43--44
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+<linearplot01.png, id=16, 462.528pt x 346.896pt>
+File: linearplot01.png Graphic file (type png)
+<use linearplot01.png>
+Package pdftex.def Info: linearplot01.png  used on input line 52.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+<meshplot01.png, id=18, 462.528pt x 346.896pt>
+File: meshplot01.png Graphic file (type png)
+<use meshplot01.png>
+Package pdftex.def Info: meshplot01.png  used on input line 58.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+[2 <./linearplot01.png> <./meshplot01.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+<contourplot01.png, id=24, 462.528pt x 346.896pt>
+File: contourplot01.png Graphic file (type png)
+<use contourplot01.png>
+Package pdftex.def Info: contourplot01.png  used on input line 65.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+[3 <./contourplot01.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+
+ []
+
+<wlinearplot.png, id=30, 462.528pt x 346.896pt>
+File: wlinearplot.png Graphic file (type png)
+<use wlinearplot.png>
+Package pdftex.def Info: wlinearplot.png  used on input line 89.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+[4 <./wlinearplot.png>]
+<weightedt08.png, id=35, 462.528pt x 346.896pt>
+File: weightedt08.png Graphic file (type png)
+<use weightedt08.png>
+Package pdftex.def Info: weightedt08.png  used on input line 96.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [5 <./weightedt08.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
+
+ []
+
+<weightedt01.png, id=40, 462.528pt x 346.896pt>
+File: weightedt01.png Graphic file (type png)
+<use weightedt01.png>
+Package pdftex.def Info: weightedt01.png  used on input line 105.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<weightedt03.png, id=41, 462.528pt x 346.896pt>
+File: weightedt03.png Graphic file (type png)
+<use weightedt03.png>
+Package pdftex.def Info: weightedt03.png  used on input line 108.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<weightedt2.png, id=42, 462.528pt x 346.896pt>
+File: weightedt2.png Graphic file (type png)
+<use weightedt2.png>
+Package pdftex.def Info: weightedt2.png  used on input line 111.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+[6 <./weightedt01.png> <./weightedt03.png>]
+<weightedt10.png, id=48, 462.528pt x 346.896pt>
+File: weightedt10.png Graphic file (type png)
+<use weightedt10.png>
+Package pdftex.def Info: weightedt10.png  used on input line 114.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [7 <./weightedt2.png> <./weightedt10.png>]
+<newton.png, id=55, 462.528pt x 346.896pt>
+File: newton.png Graphic file (type png)
+<use newton.png>
+Package pdftex.def Info: newton.png  used on input line 136.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [8 <./newton.png>]
+<pointplot.png, id=60, 462.528pt x 346.896pt>
+File: pointplot.png Graphic file (type png)
+<use pointplot.png>
+Package pdftex.def Info: pointplot.png  used on input line 153.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [9 <./pointplot.png>]
+<gline.png, id=65, 462.528pt x 346.896pt>
+File: gline.png Graphic file (type png)
+<use gline.png>
+Package pdftex.def Info: gline.png  used on input line 158.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+File: gline.png Graphic file (type png)
+<use gline.png>
+Package pdftex.def Info: gline.png  used on input line 173.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [10 <./gline.png>]
+<gaussianwline.png, id=70, 462.528pt x 346.896pt>
+File: gaussianwline.png Graphic file (type png)
+<use gaussianwline.png>
+Package pdftex.def Info: gaussianwline.png  used on input line 177.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [11 <./gaussianwline.png>] (./template.aux) ) 
+Here is how much of TeX's memory you used:
+ 3109 strings out of 494543
+ 42883 string characters out of 6176661
+ 105558 words of memory out of 5000000
+ 6735 multiletter control sequences out of 15000+600000
+ 7587 words of font info for 27 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 41i,6n,32p,348b,973s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on template.pdf (11 pages, 495800 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
